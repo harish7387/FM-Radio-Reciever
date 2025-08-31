@@ -46,6 +46,7 @@ Connect the demodulated output to the audio amplifier.
 Attach a speaker/headphones for audio output.
 
 
-# 📸 Output
+# 📸 Circuit
+<img width="852" height="637" alt="Image" src="https://github.com/user-attachments/assets/862f323e-920f-4894-9918-5a07e435bf25" />
 
 
